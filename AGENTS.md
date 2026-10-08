@@ -1,0 +1,3 @@
+# Project instructions
+
+Avoid rewriting published git history. Do not force push or rebase, amend, or squash commits that have already been pushed.
